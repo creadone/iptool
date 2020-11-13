@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  subnet:
+    git: https://github.com/watzon/subnet.git
+    version: 0.1.0
+
